@@ -113,6 +113,7 @@ nav span {
   color: #434455;
 }
 .portfolio-title {
+  font-weight: 500;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
@@ -154,7 +155,7 @@ nav span {
 }
 .footer-text {
   font-size: 16px;
-  line-height: 1.7;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
 }
