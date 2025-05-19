@@ -65,7 +65,7 @@ cursor: pointer
 }
 .hero-button:hover,
 .hero-button:focus {
-  color: #404BBF; 
+background-color: #404BBF
 }
 .work-title {
   visibility: hidden;
